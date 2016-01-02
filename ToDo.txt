@@ -1,0 +1,22 @@
+TODO:| A. SETUP PROJECT
+TODO:| A-01. Setup new project in NodeJS / Express / JADE
+TODO:| A-02. Familiarise with system
+TODO:| A-03. Setup a Test Procedure
+TODO:| A-04. Setup a Deployment Procedure
+TODO:|
+TODO:| B. ARCHITECTURE
+TODO:| B-01. Plan architecture
+TODO:| B-02. Setup folder structure
+TODO:| B-03. Setup Dependencies
+TODO:| B-04. Deploy Base
+TODO:|
+TODO:| C. DEVELOPMENT
+TODO:| C-01. Initiate Dev
+TODO:| C-02. Initiate Test
+TODO:| C-03. Initiate CI
+TODO:| C-04. End Feature
+TODO:| C-05. Test Feature
+TODO:| C-06. Deploy Feature
+TODO:| C-07. Iterate
+
+TODO:|
